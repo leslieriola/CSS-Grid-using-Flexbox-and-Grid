@@ -1,0 +1,74 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@leslieriola 
+Marian1417
+/
+CSS-Grid-using-flexbox-and-grid
+Public
+Fork your own copy of Marian1417/CSS-Grid-using-flexbox-and-grid
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+CSS-Grid-using-flexbox-and-grid/flexbox/styles.css
+@Marian1417
+Marian1417 first commit
+Latest commit 80a4d33 yesterday
+ History
+ 1 contributor
+31 lines (27 sloc)  450 Bytes
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    color: white;
+    font-weight: bold;
+  }
+  
+  header {
+    background-color: darkslategray;
+    padding: 10px;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  h1 {
+    font-size: 36px;
+  }
+  
+  ul {
+    display: flex;
+    list-style: none;
+    gap: 48px;
+    font-size: 18px;
+  }
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
